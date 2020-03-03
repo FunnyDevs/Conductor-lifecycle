@@ -1,0 +1,2 @@
+include ':app', ':annotations', ':conductor-lifecycle'
+rootProject.name='My Application'
