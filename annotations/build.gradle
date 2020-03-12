@@ -2,7 +2,7 @@ apply plugin: 'java-library'
 
 
 group 'com.funnydevs.sdk'
-version '1.0.0'
+version '0.0.1'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
